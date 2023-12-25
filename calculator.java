@@ -1,5 +1,4 @@
 package com.Anupam;
-
 import java.util.Scanner;
 
 public class calculator {
